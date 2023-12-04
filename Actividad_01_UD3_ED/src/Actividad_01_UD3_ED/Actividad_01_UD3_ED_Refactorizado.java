@@ -14,7 +14,7 @@ import java.io.IOException;
  *
  * @author ana
  */
-public class Actividad_01_UD3_ED 
+public class Actividad_01_UD3_ED_Refactorizado 
         
 /**
  * 
